@@ -22,7 +22,27 @@ Here are some ideas to get you started:
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm xiaoting, Frontend developer from   <img alt="China icon" srcset="https://img.icons8.com/doodle/512/china.png 2x" style="width: 30px; height: 30px;"><b>China</b>, currently living in <img alt="Italy icon" srcset="https://img.icons8.com/doodle/2x/italy.png 3.2x"> <b>Milan, Italy</b>. </p>
+<p>Welcome to my page! </br> I'm Lin<img src="https://img.icons8.com/external-avatar-andi-nur-abdillah/512/external-Girl-kid-avatar-avatar-andi-nur-abdillah-4.png" width="22"/>, I'm from   <img src="https://img.icons8.com/doodle/512/china.png" width="22"/><b>China</b>, currently living in <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/512/external-milan-fashion-week-flaticons-lineal-color-flat-icons.png" width="22"/> <b>Milan, Italy</b> <img src="https://img.icons8.com/doodle/2x/italy.png" width="20"/>
+
+
+<img src="https://img.icons8.com/doodle/512/pizza.png" width="22"/>
+<img src="https://img.icons8.com/external-filled-line-andi-nur-abdillah/512/external-spaghetti-food-filled-line-filled-line-andi-nur-abdillah.png" width="22"/>
+<img src="https://img.icons8.com/doodle/512/pizza.png](https://img.icons8.com/doodle/512/ice-cream-cone.png" width="22"/>
+<img src="https://img.icons8.com/doodle/512/cheese.png" width="22"/>
+<img src="https://img.icons8.com/cotton/512/wine-glass--v3.png" width="22"/>.
+
+<br>
+I'm learning to code 
+<img src="https://img.icons8.com/external-prettycons-flat-prettycons/512/external-coding-web-and-seo-prettycons-flat-prettycons.png" width="22"/> on my own.
+</p>
+
+
+
+
+
+
+
+
 
 <h3>Things I code with</h3>
 <p>
