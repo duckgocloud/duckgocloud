@@ -95,5 +95,7 @@ I'm learning to code
 
 
   
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duckgocloud&layout=compact" />
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=duckgocloud&show_icons=true&theme=great-gatsby" alt="duckgocloud" />
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duckgocloud&layout=compact" />
