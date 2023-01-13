@@ -59,6 +59,8 @@ I'm learning to code
   <img src="https://img.icons8.com/color/512/npm.png" width="50"/>
   <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/512/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-filled-tal-revivo.png" width="50"/>
   <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/512/external-angular-a-typescript-based-open-source-web-application-framework-logo-filled-tal-revivo.png" width="50"/>
+  <img src="https://img.icons8.com/dusk/2x/sql.png" width="50"/>
+  
   
   
 
