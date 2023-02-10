@@ -32,8 +32,7 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/cotton/512/wine-glass--v3.png" width="50"/>.
 
 <br>
-I'm learning to code 
-<img src="https://img.icons8.com/external-prettycons-flat-prettycons/512/external-coding-web-and-seo-prettycons-flat-prettycons.png" width="50"/> on my own.
+<img src="https://img.icons8.com/external-prettycons-flat-prettycons/512/external-coding-web-and-seo-prettycons-flat-prettycons.png" width="50"/> Code for Passion.
 </p>
 <br>
 
